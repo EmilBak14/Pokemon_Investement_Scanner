@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and API keys
+.env
+*.env
+
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS-generated files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Generated scanner data
+*.log
