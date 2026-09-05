@@ -8,15 +8,6 @@
             "median": 2850.0,
             "highest": 25000.0,
             "listings": 45
-        },
-        {
-            "scanned_at": "2026-09-03T08:38:51",
-            "reference_market_price": 2000,
-            "lowest": 6.0,
-            "average": 3028.67,
-            "median": 2700.0,
-            "highest": 6500.0,
-            "listings": 43
         }
     ]
 }
